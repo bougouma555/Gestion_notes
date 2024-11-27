@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1732648900 source:c:\intel\projet_c++\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<string>
+	<fstream>
+	<iomanip>
+
